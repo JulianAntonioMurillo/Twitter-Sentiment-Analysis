@@ -4,8 +4,7 @@ Insights into public tweets with key words "Donald Trump" in them. Analysis on t
 ### By Julian Murillo
 ### Email: julesmurillo.inquiries@gmail.com
 
-### Source Files:
-### Code&Output.pdf
+### Source Files: Code&Output.pdf
 
 ### References:
 
